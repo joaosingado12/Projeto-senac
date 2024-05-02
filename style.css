@@ -1,0 +1,15 @@
+.texto-menor{
+    font-size: 13px;
+}
+
+.teste{
+    display: flex;
+    align-items: center;
+    background-color: blueviolet;
+    width: 33%;
+    align-items: center;
+}
+
+.div-facilidades{
+    width: 325px;
+}
