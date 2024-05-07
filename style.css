@@ -6,6 +6,10 @@
     width: 325px;
 }
 
+.f{
+    color: azure;
+}
+
 .flex{
     display: flex;
     justify-content: space-between;
