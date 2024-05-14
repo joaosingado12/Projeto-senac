@@ -20,9 +20,14 @@
     background-color: #198754;
 }
 
-.botao-lilas {
+.botao-estilizado{
     background-color: #9353FF;
-}
+    border-radius: 3px;
+    padding: 10px;
+    color:#fff;
+    text-decoration: none;
+  
+ }
 
 .verde-limao {
     color: #DAFF01;
