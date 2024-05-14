@@ -6,94 +6,24 @@
     width: 325px;
 }
 
-.f{
-    color: azure;
-}
-
-.flex{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-#sim{
-    border: 1px solid black;
-}
-
-#nao{
-    justify-content: space-between;
-    align-items: center;
-}
-
-.item{
-    display: flex;
-    background-color: antiquewhite;
-    width: 20%;
-    height: 50px;
-    border-color: black;
-    border: 2px solid;
-    justify-content: center;
-    align-items: center;
-    margin: 9px;
-}
-
-.flex-container {
-    display: flex;
-    justify-content: space-between; /* Distribui os itens uniformemente ao longo do eixo principal (horizontal) */
-    align-items: center; /* Centraliza os itens ao longo do eixo transversal (vertical) */
-}   
-
-.flex-item {
-    width: 33%;
-    height: 100px;
-    background-color: purple;
-    margin: 5px;
-    display: flex; /* Permite que o conteúdo dentro dos itens flexíveis seja exibido como flexível também */
-    justify-content: center; /* Centraliza o conteúdo horizontalmente dentro de cada item */
-    align-items: center; /* Centraliza o conteúdo verticalmente dentro de cada item */
-}
-
-.container-grid{
-    display: grid;
-    grid-template-columns: repeat(3, 100px);
-    grid-gap: 10px;
-}
-
-.item-grid{
-    background-color: beige;
-    padding: 20px;
-    text-align: center;
-}
-
-.parents{
-    width: 300px;
-    background-color: chartreuse;
-    float: left;
+.roxo{
+    background-color: #9353FF;
+    border-radius: 3px;
     padding: 10px;
+    color:#fff;
+    text-decoration: none;
+  
+ }
+ 
+.teste{
+    color: #ffffff;
+    background-color: #198754;
 }
 
-.children{
-    float: inherit;
-    background-color: blueviolet;
-    padding: 10px;
-
+.botao-lilas {
+    background-color: #9353FF;
 }
 
-.container1{
-    width: 300px;
-}
-
-.box{
-    height: 100px;
-    width: 100px;
-    background-color: chocolate;
-    text-align: center;
-}
-
-.float-tr{
-    float: right;
-}
-
-.float-tl{
-    float: left;
+.verde-limao {
+    color: #DAFF01;
 }
